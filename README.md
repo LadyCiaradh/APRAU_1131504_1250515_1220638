@@ -46,7 +46,7 @@ The notebook covers:
 
 ### `reports/` - Report
 
-Contains [Report_APRAU_1250515_1220638_1131504.pdf](reports/eport_APRAU_1250515_1220638_1131504.pdf), the PDF document for the project report. All numerical results in the report were taken from the executed notebook.
+Contains [Report_APRAU_1250515_1220638_1131504.pdf](reports/Report_APRAU_1250515_1220638_1131504.pdf), the PDF document for the project report. All numerical results in the report were taken from the executed notebook.
 
 ### Root files
 
